@@ -1,0 +1,25 @@
+/* 
+  English.strings
+  TangoChallenge
+
+  Created by Samuel Arturo Garrido Sánchez on 2022-05-29.
+  
+*/
+
+//VC Titles
+"home"          = "Home";
+
+//Labels
+"songsquantity" = "Num. de canciones";
+"artist"        = "Artista";
+"price"         = "Precio";
+"year"          = "Año";
+"search"        = "Buscar";
+
+
+//// Alerts
+//"artistnotfound"        = "Artista no encontrado"
+//"NotAlbumsFound"        = "No hay albunes disponibles"
+//"NetworkNotAvailible"   = "Sin Red"
+//"NetworkAvailible"      = "En línea"
+//"DataSaved"             = "Album guardado"

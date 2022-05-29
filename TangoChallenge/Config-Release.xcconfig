@@ -1,0 +1,11 @@
+//
+//  Config-Release.xcconfig
+//  TangoChallenge
+//
+//  Created by Samuel Arturo Garrido Sánchez on 2022-05-28.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+API_KEY = 1234567890
+API_BASE_URL = itunes.apple.com
